@@ -1,2 +1,2 @@
 # AIPlayGround
-This is AI playground
+This is my AI playground
